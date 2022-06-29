@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Hermes 
+##### v0.0.1
+
+### Why Hermes?
+[Hermes](https://en.wikipedia.org/wiki/Hermes) is an Olypian deity, son of Zeus and considered gos of messages, was Hermes the one gave the alphabeth to human race, according to greek mythology. He was also encharged of transmit the messages from Olympian god to the humans, including translating it. And this is my purpose here, to transmit messages from several authors and compile itno a dissertation. 
+* Be aware that most of writes that you will find here are for my university course purpose. 
+
 
 You can use the [editor on GitHub](https://github.com/sukys/hermes/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
